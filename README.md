@@ -91,7 +91,7 @@ cd hello-rails-react
 
 Install this project with:
 bundle install
-npm install
+yarn install
 
 rails s
 
