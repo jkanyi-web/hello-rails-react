@@ -131,8 +131,6 @@ Acknowledgements and suggestions for improvement are always welcome
 
 - https://stackoverflow.com/questions/53510040/carrierwave-argument-error-nil-location-provided-cant-build-uri-for-an-image
 
-Special thanks to the original designer of the Budget App, [Gregoire Vella on Behance](https://www.behance.net/gregoirevella), for creating the design and making it available.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
